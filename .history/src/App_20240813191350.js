@@ -8,7 +8,6 @@ function App() {
     <>
       <Button1 />
       <Button2 />
-      <p>멋지다링!테스트임</p>
       <StyledComponent />
     </>
   );

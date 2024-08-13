@@ -8,7 +8,7 @@ function App() {
     <>
       <Button1 />
       <Button2 />
-      <StyledComponent />
+      <StyledComponent></StyledComponent>
     </>
   );
 }
